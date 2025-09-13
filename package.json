@@ -1,0 +1,33 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "This is my lacal react project Lalit Deshmukh",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalitadeshmukh/try-react.git"
+  },
+  "keywords": [
+    "lalit"
+  ],
+  "author": "lalit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalitadeshmukh/try-react/issues"
+  },
+  "homepage": "https://github.com/lalitadeshmukh/try-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserslist" : [  
+  "last 2 versions"
+  ]
+}
